@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GEEK_Asgn_Context_MusicPlayer/static/css/main.f0a89a96.css",
+    "main.js": "/GEEK_Asgn_Context_MusicPlayer/static/js/main.2b6a0536.js",
+    "index.html": "/GEEK_Asgn_Context_MusicPlayer/index.html",
+    "main.f0a89a96.css.map": "/GEEK_Asgn_Context_MusicPlayer/static/css/main.f0a89a96.css.map",
+    "main.2b6a0536.js.map": "/GEEK_Asgn_Context_MusicPlayer/static/js/main.2b6a0536.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0a89a96.css",
+    "static/js/main.2b6a0536.js"
+  ]
+}
