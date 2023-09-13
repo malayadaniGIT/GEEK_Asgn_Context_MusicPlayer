@@ -1,0 +1,46 @@
+.playlist-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+  
+  .playlist {
+    width: 40%;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-left: 30%;
+  }
+  
+  .playlist h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .song {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ccc; /* Add a border to each song */
+    margin: 10px 0; /* Add margin to separate songs */
+    background-color: #fff; /* Set background color for each song */
+    border-radius: 5px;
+  }
+    
+  .play-button {
+    padding: 5px 10px;
+    background-color: transparent;
+    cursor: pointer;
+    margin-right: 10px;
+    border-radius: 20%; /* Make the button rounded */
+  }
+  
+  .song-title {
+    flex-grow: 1;
+  }
+  
